@@ -1,0 +1,2 @@
+pyyaml
+/Users/nicholasc/Documents/Workspace/MyWork/Serverless-Book/src/chapter09/py-src/__init__.py
